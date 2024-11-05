@@ -1,16 +1,16 @@
 {
   "name": "ragserve",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Boilerplate for AI Chatbot for your website, using RAG",
+  "main": "server.ts",
   "scripts": {
     "build": "tsc",
     "start": "node dist/server.js",
     "dev": "ts-node-dev server.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["chatbot","nlp","ai-chatbot","RAG","RAGserve","ai assistant"],
+  "author": "Saurabh Verma",
+  "license": "unlicense",
   "devDependencies": {
     "@types/express": "^5.0.0",
     "ts-node-dev": "^2.0.0",
